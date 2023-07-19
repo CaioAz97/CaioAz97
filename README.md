@@ -1,6 +1,6 @@
-olá meu nome é Caio Azevedo 👋 
+Olá 👋  meu nome é Caio Azevedo. 
 gastronomo migrando para a área de programação/Dev. 👀 
-estuando Java e Python para entrar ser Dev. backend- 🌱 
+estudando Java e Python para ser Dev. backend- 🌱 
 novo na programação mas já amando a experiencia - 💞️
 Caioazvdo1997@gmail.com 📫
 
